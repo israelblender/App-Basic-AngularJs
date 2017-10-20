@@ -1,0 +1,25 @@
+{
+  "name": "public_html",
+  "version": "1.0.0",
+  "description": "Primeiro projeto angular js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israelblender/angularjs.git"
+  },
+  "keywords": [
+    "angular",
+    "js",
+    "html",
+    "projeto"
+  ],
+  "author": "Israel Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/israelblender/angularjs/issues"
+  },
+  "homepage": "https://github.com/israelblender/angularjs#readme"
+}

@@ -1,2 +1,2 @@
 # angularjs
-Projeto angular para estudo
+Projeto angular para estudo (Estudando Angular e Node)

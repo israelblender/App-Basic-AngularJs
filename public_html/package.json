@@ -6,12 +6,26 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "http://www.tecnologiabyte.com",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/israelblender/angularjs.git"
   },
+  "engines": {
+      "node": ">= 0.6.0",
+      "npm": ">= 1.0.0"
+  },
+  "dependencies": {
+      "express": "~3.4.4",
+      "mongoose": "*",
+      "atob": "*",
+      "btoa": "*",
+      "node-rest-client": "*",
+      "nodemailer": "*",
+      "karma": "*"
+  }
   "keywords": [
-    "angular",
+    "angular",7
     "js",
     "html",
     "projeto"

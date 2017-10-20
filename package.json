@@ -1,0 +1,27 @@
+{
+  "name": "angulardependencias",
+  "version": "2.0.0",
+  "description": "aplicacao angular",
+  "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israelblender/angularjs.git"
+  },
+  "keywords": [
+    "angular",
+    "html",
+    "projeto"
+  ],
+  "author": "Israel Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/israelblender/angularjs/issues"
+  },
+  "homepage": "https://github.com/israelblender/angularjs#readme"
+}

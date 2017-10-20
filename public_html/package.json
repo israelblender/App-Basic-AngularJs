@@ -22,11 +22,14 @@
       "btoa": "*",
       "node-rest-client": "*",
       "nodemailer": "*",
+      "consolidate": "*",
+      "ejs": "*",
+      "handlerbars": "*",
       "karma": "*"
-  }
+  },
   "keywords": [
-    "angular",7
-    "js",
+    "angular",
+    "javascript",
     "html",
     "projeto"
   ],

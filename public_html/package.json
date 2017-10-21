@@ -24,7 +24,7 @@
       "nodemailer": "*",
       "consolidate": "*",
       "ejs": "*",
-      "handlerbars": "*",
+      "handlebars": "*",
       "karma": "*"
   },
   "keywords": [

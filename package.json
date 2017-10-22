@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/israelblender/angularjs/issues"
   },
-  "homepage": "https://github.com/israelblender/angularjs#readme"
+  "homepage": "https://github.com/israelblender/angularjs#readme",
+  "devDependencies": {
+    "angular-mocks": "^1.6.6"
+  }
 }

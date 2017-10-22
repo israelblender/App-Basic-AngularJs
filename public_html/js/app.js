@@ -9,11 +9,14 @@ angularApp.config(['$routeProvider', '$locationProvider',
     function($routeProvider, $locationProvider){
         $routeProvider.
                 when('/',  {
-                    templateUrl:'partials/main.html', 
+                    templateUrl:'partials/add.html', 
                     controller:'mainControl'
                 }).when('/show', {
                     templateUrl:'partials/show.html',
                     controller:'showControl'
+                }).when('/addcontrol',{
+                    templateUrl: 'partials/add.html',
+                    controller: 'addControl'
                 });
         $locationProvider.html5Mode(false).hashPrefix('!');
     }

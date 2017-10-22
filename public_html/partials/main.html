@@ -1,1 +1,14 @@
-<div style="color: green">{{message}}</div>
+<div style="color: green">Nome: {{nome}}</div>
+<div style="color: green">Idade: {{idade}}</div>
+<br>
+
+<form>
+    <div>
+        <input type="text" ng-model="NOME" required/>
+    </div>
+    <div>
+        <input type="text" ng-model="IDADE" required/>
+    </div>
+    <button ng-click="atualizarDados();">Atualizar Dados</button>
+    <button ng-mouseleave="atualizarDados();">Passe o mouse para ser alterado</button>
+</form>
